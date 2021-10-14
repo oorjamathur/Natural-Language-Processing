@@ -34,7 +34,10 @@ Tech stack includes: -
 - It'll show 3 most matching city names with similarity percentage.
 
 ### Directory Tree
-![directory tree flask app]()
+![directory tree flask app](https://github.com/oorjamathur/Natural-Language-Processing/blob/main/Handling%20misspelt%20city%20names%20using%20fuzzywuzzy/image.PNG)
+
+### User Interface
+![directory tree flask app](https://github.com/oorjamathur/Natural-Language-Processing/blob/main/Handling%20misspelt%20city%20names%20using%20fuzzywuzzy/UI.PNG)
 
 ### Credits
 Code Idea: https://www.youtube.com/watch?v=6i5bHQZ-c5U
